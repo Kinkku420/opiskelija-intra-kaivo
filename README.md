@@ -1,4 +1,4 @@
 # opiskelija-intra-kaivo
 
-sskye.xyz : Pääsivu
+sskye.xyz : Pääsivu \
 irc.sskye.xyz : IRC kanavan sivu
